@@ -1,0 +1,5 @@
+{
+	"ip":"Omo_Japanese_Village.aternos.me:50007",
+	"port": "50007",
+	"name": "afkbot"
+}
